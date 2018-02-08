@@ -14,9 +14,6 @@ var meInReact = React.createElement('div', {className:'me'},
       )
       ])))
 
-
-
-
 ReactDOM.render(
   meInReact,
   document.getElementById('global')
